@@ -1,3 +1,5 @@
+# Simon Game
+
 # Challenges I Faced? 
 
 I struggle with some of the JavaScript logic for the game. I’m fairly new to JavaScript and some of these concepts seem a 
