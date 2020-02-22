@@ -4,7 +4,7 @@ I struggle with some of the JavaScript logic for the game. I’m fairly new to J
 little bit more advanced than I’m used to. Like playing sound using JavaScript, incorporating the keyboard within the game, 
 And using the Jquery library. 
 
-# What Did I Do to Overcome Those Challenges? 
+# How Did I Overcome Those Challenges? 
 
 I tried to think more programmatically as I approached this project, I stumbled upon this concept in prior research, and 
 to put it loosely it’s the idea of breaking down a problem into bite size pieces and tackling each issue step-by-step. 
