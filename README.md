@@ -13,7 +13,7 @@ The more formal term is “computational thinking” and the wiki definition is:
 
 A set of problem solving methods that involve expressing problems and their solutions in ways that a computer could execute. It involves the mental skills and practices for designing computations that get computers to do jobs for us, and explaining and interpreting the world as a complex of information processes. 
 
-With this in mind I approach this project with a very meticulous foresight. Trying to Think of not only what needed to happen and when but how it needed to happen In order to generate a positive user experience. I drew out the logic for the game in common English on a whiteboard before I started coding to get a general idea of the flow of the computational thought process.
+With this in mind I approach this project with a very meticulous foresight. Trying to think of not only what needed to happen and when but how it needed to happen in order to generate a positive user experience. I drew out the logic for the game in common English on a whiteboard before I started coding to get a general idea of the flow of the computational thought process.
 
 By doing research on platforms like Google,YouTube, MDN docs, stack overflow, github, online courses, and reference guides, not only was able to finish coding the program successfully but I was also able to explain what I did and why I did at each step in the process. 
 
@@ -22,11 +22,10 @@ By doing research on platforms like Google,YouTube, MDN docs, stack overflow, gi
 
 # What Did I Learn? 
 
-* How to work with array in JavaScript
-* How to work with Boolean values in JavaScript
-* How to use the jQuery library to incorporate the keyboard in program
-* How to incorporate a mouse click in my programs
-* how to work with the arrays in Java script more efficiently
+* How to work with arrays in JavaScript
+* How to work with boolean values in JavaScript
+* How to use the jQuery library to incorporate the keyboard in a JavaScript program
+* How to incorporate a mouse click in my JavaScript programs
 * How to play sound using JavaScript
 * How to think from the end-users point of view 
 * How do use HTML more efficiently
