@@ -36,3 +36,6 @@ By doing research on platforms like Google,YouTube, MDN docs, stack overflow, gi
 * How to use JavaScript methods
 * How to set up the flow of a program more efficiently and effectively
 * How to use CSS grid
+
+
+![Simon Game Screen Shot](simongame.png)
